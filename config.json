@@ -1,11 +1,15 @@
 {
-    "node-info": {
-        "ip": "54.186.212.101",
-        "api-port": "",
-        "access-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODczMjU2MjB9.FJCnGw8rwiAW_Z67dDg6Vwzbnja7hmdyzEmr3T5uYR4",
-        "RAM(MB)": 6000,
-        "SSD(MB)": 50000,
-        "CPU Cores": 1,
-        "uid": "dd4afa72940"
+    "node_info": {
+        "ip": "50.39.96.164",
+        "api_port": 20001,
+        "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODczMjU2MjB9.FJCnGw8rwiAW_Z67dDg6Vwzbnja7hmdyzEmr3T5uYR4",
+        "ram_mb": 16000,
+        "ssd_mb": 200000,
+        "cpu_cores": 8,
+        "uid": "dd4afa72940",
+        "image_port_low": 19100,
+        "image_port_up": 20000,
+        "guace_hive_ip": "lab.titanturtles.org",
+        "guaca_hive_port": 20002
     }
 }
