@@ -1,0 +1,11 @@
+{
+    "node-info": {
+        "ip": "54.186.212.101",
+        "api-port": "",
+        "access-token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2ODczMjU2MjB9.FJCnGw8rwiAW_Z67dDg6Vwzbnja7hmdyzEmr3T5uYR4",
+        "RAM(MB)": 6000,
+        "SSD(MB)": 50000,
+        "CPU Cores": 1,
+        "uid": "dd4afa72940"
+    }
+}
